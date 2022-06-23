@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skin name="Squabbler - NES" author="Squabbler" type="mister">
+
+  <!-- Black Background -->
+	<background name="Black" image="input-display-overlay.png" />
+  
+  <!-- D-PAD ################# -->
+  <button name="up" image="button-dpad.png" x="41" y="16" width="30" height="30" />
+  <button name="right" image="button-dpad.png" x="71" y="45" width="30" height="30" />
+  <button name="down" image="button-dpad.png" x="41" y="74" width="30" height="30" />
+  <button name="left" image="button-dpad.png" x="11" y="45" width="30" height="30" />
+
+  <!-- BUTTONS ################# -->
+  <!-- B -->
+  <button name="b0" image="button-b-a.png" x="230" y="66" width="30" height="30" />
+
+  <!-- A -->
+  <button name="b4" image="button-b-a.png" x="277" y="66" width="30" height="30" />
+
+  <!-- Select -->
+  <button name="b2" image="button-select-start.png" x="113" y="75" width="42" height="16" />
+  
+  <!-- Start -->
+  <button name="b3" image="button-select-start.png" x="168" y="75" width="42" height="16" />
+</skin>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<skin name="Squabbler - Playstation DS3" author="Squabbler" type="generic">
+
+  <!-- Black Background -->
+	<background name="Black" image="input-display-overlay.png" />
+  
+  <!-- D-PAD ################# -->
+  <button name="up" image="button-dpad.png" x="31" y="8" width="26" height="26" />
+  <button name="right" image="button-dpad.png" x="55" y="30" width="26" height="26" />
+  <button name="down" image="button-dpad.png" x="31" y="53" width="26" height="26" />
+  <button name="left" image="button-dpad.png" x="8" y="30" width="26" height="26" />
+
+  <!-- ANALOG STICKS ################# -->
+  <!-- Left Analog -->
+  <stick xname="x" yname="y" image="analog.png" x="75" y="75" 
+          width="32" height="32" xrange="12" yrange="12" yreverse="true" />
+
+  <!-- Right Analog -->
+  <stick xname="z" yname="rz" image="analog.png" x="213" y="75" 
+          width="32" height="32" xrange="12" yrange="12" yreverse="true" />
+
+  <!-- BUTTONS ################# -->
+  <!-- Square -->
+  <button name="b0" image="button-square.png" x="239" y="30" width="26" height="26" />
+  
+  <!-- Triangle -->
+  <button name="b3" image="button-triangle.png" x="262" y="8" width="26" height="26" />
+  
+  <!-- Circle -->
+  <button name="b2" image="button-circle.png" x="287" y="30" width="26" height="26" />
+  
+  <!-- Cross X -->
+  <button name="b1" image="button-cross.png" x="262" y="53" width="26" height="26" />
+
+  <!-- Select -->
+  <button name="b8" image="button-start-select.png" x="124" y="68" width="30" height="12" />
+
+  <!-- Start -->
+  <button name="b9" image="button-start-select.png" x="165" y="68" width="30" height="12" />
+
+  <!-- PS Button -->
+  <button name="b12" image="button-ps.png" x="151" y="90" width="16" height="16" />
+
+  <!-- L1 -->
+  <button name="b4" image="button-shoulder.png" x="105" y="38" width="48" height="15" />
+
+  <!-- L2 -->
+  <button name="b6" image="button-trigger.png" x="105" y="8" width="48" height="23" />
+
+  <!-- R1 -->
+  <button name="b5" image="button-shoulder.png" x="165" y="38" width="48" height="15" />
+
+  <!-- R2 -->
+  <button name="b7" image="button-trigger.png" x="165" y="8" width="48" height="23" />
+</skin>
