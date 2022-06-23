@@ -58,6 +58,7 @@ In order to fix this, follow these steps:
 Using Chroma filter in OBS will remove the black background on the skin, and allow the buttons to float on top of whatever background you want.
 
 Example of the buttons on the corner of the game view
+
 ![Skin used with Chroma](docs/example-chroma.png)
 
 | Step | Example |
